@@ -1,0 +1,5 @@
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Translation\Translation\bin\Debug\Translation.exe.config
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Translation\Translation\bin\Debug\Translation.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Translation\Translation\bin\Debug\Translation.pdb
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Translation\Translation\obj\Debug\Translation.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Translation\Translation\obj\Debug\Translation.pdb
